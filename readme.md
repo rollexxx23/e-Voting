@@ -1,6 +1,8 @@
 
   # E-Voter
- ![EVOTING](https://user-images.githubusercontent.com/71402528/118363345-829b8080-b5b1-11eb-975c-62d6dda083b0.png)
+ <!--![EVOTING](https://user-images.githubusercontent.com/71402528/118363345-829b8080-b5b1-11eb-975c-62d6dda083b0.png)-->
+ ![image](https://user-images.githubusercontent.com/72061687/118364411-f049ab80-b5b5-11eb-8c45-77970c719efa.png)
+
 
 
 
