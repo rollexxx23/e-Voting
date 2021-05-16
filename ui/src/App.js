@@ -1,11 +1,11 @@
-import FirstPage from "./Login/FirstPage"
+import MainScreen from "./Login/EnterOTP"
 import './App.css';
 
 
 function App() {
   return (
     <div className="App">
-      <FirstPage/>
+      <MainScreen/>
     </div>
   );
 }
