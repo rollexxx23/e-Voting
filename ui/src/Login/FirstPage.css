@@ -1,0 +1,30 @@
+.FirstPage {
+  display: flex;
+  flex-direction: column;
+  background-color: #003969;
+  height: 100vh;
+  place-items: center;
+}
+
+.FirstPage > img {
+  height: 500px;
+}
+
+.FirstPage > a {
+  color: white;
+  text-decoration: none;
+  padding: 20px;
+  border-radius: 99px;
+  font-weight: 800;
+  background-color: #0059a4;
+}
+
+.landingPage {
+  margin-top: 30px;
+}
+
+.landingPage > a {
+  text-decoration: none;
+  color: wheat;
+  font-size: small;
+}
