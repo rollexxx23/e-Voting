@@ -57,7 +57,7 @@ function VotingScreen() {
           
        
        <div className="button">
-       <a href="/"> CHOOSE </a> 
+       <a href="/thank"> CHOOSE </a> 
        </div>
       
     </Card>
@@ -74,7 +74,7 @@ function VotingScreen() {
           
        
        <div className="button">
-       <a href="/"> CHOOSE </a> 
+       <a href="/thank"> CHOOSE </a> 
        </div>
       
     </Card>
@@ -91,7 +91,7 @@ function VotingScreen() {
           
        
        <div className="button">
-       <a href="/"> CHOOSE </a> 
+       <a href="/thank"> CHOOSE </a> 
        </div>
       
     </Card>
@@ -108,7 +108,7 @@ function VotingScreen() {
           
        
        <div className="button">
-       <a href="/"> CHOOSE </a> 
+       <a href="/thank"> CHOOSE </a> 
        </div>
       
     </Card>

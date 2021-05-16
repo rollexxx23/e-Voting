@@ -1,6 +1,8 @@
 import React from 'react' ;
+import { Link } from 'react-router-dom';
 import logo from "../images/e-voter.png" ;
-import "./Login.css"
+import "./Login.css" ;
+
 
 function Login() {
     return (
@@ -16,7 +18,7 @@ function Login() {
                     <h5>Registered Mobile Number</h5>
                     <input type='tel'  />
 
-                    <button type='submit' className='Login__signInButton'>Get OTP</button>
+                    <Link to="/otp">  <button type='submit' className='Login__signInButton'>Get OTP</button> </Link>
                 </form>
 
                 <p>

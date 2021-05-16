@@ -1,0 +1,22 @@
+.thankYou {
+  display: flex;
+  flex-direction: column;
+  background-color: #003969;
+  height: 150vh;
+  place-items: center;
+}
+
+.thankYou > img {
+  height: 300px;
+}
+
+.text1 {
+  color: white;
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+
+.text2 {
+  color: wheat;
+  font-size: 10px;
+}

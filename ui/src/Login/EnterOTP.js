@@ -1,4 +1,5 @@
 import React from 'react' ;
+import { Link } from 'react-router-dom';
 import logo from "../images/e-voter.png" ;
 import "./EnterOTP.css"
 
@@ -16,7 +17,7 @@ function EnterOTP() {
 
                     
 
-                    <button type='submit' className='Login__signInButton'>Log In</button>
+                   <Link to="main"> <button type='submit' className='Login__signInButton'>Log In</button> </Link>
                 </form>
 
               

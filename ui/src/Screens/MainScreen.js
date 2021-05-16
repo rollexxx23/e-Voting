@@ -9,6 +9,7 @@ import "./MainScreen.css" ;
 import logo from "../images/e-voter.png" ;
 import timer from "../images/timer.gif" ;
 import { Divider } from '@material-ui/core';
+import { Link } from 'react-router-dom';
 
 
 const useStyles = makeStyles({
@@ -56,10 +57,12 @@ const useStyles = makeStyles({
         </Typography>
        </div>
        <div className="button">
-       <a href="/">Join Election</a> 
+       <a href="/vote">Join Election</a> 
        </div>
       <CardActions>
+        <Link to = "/about">
         <Button size="small">Learn More</Button>
+        </Link>
       </CardActions>
     </Card>
     </div>
