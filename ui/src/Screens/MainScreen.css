@@ -1,0 +1,33 @@
+.mainScreen {
+  display: flex;
+  flex-direction: column;
+  background-color: #003969;
+  height: 150vh;
+  place-items: center;
+}
+
+.mainScreen > img {
+  height: 300px;
+}
+.image {
+  margin-top: 15px;
+}
+.image > img {
+  height: 100px;
+  object-fit: cover;
+}
+
+.timer {
+  margin-top: 5px;
+  margin-bottom: 30px;
+}
+
+.button > a {
+  color: white;
+  text-decoration: none;
+  padding: 20px;
+  border-radius: 99px;
+  font-weight: 800;
+  background-color: #0059a4;
+  margin-top: 50px;
+}
