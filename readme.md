@@ -63,7 +63,10 @@ Our mission is to bring complete transparency to the modern electoral system and
 + OpenCV +
 + ADHAAR API +
 ```
-![Digital_voting_AdobeStock_112206242_1](https://user-images.githubusercontent.com/71402528/118363811-c5f6ee80-b5b3-11eb-8cc4-89840eebbbbe.jpg)
+
+https://user-images.githubusercontent.com/71402528/118707602-59d8ec80-b838-11eb-941a-10ad2f1be04e.mp4
+
+
 
 
 </h2>
