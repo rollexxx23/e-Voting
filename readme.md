@@ -60,7 +60,7 @@ Our mission is to bring complete transparency to the modern electoral system and
 + Ethereum +
 + Firestore +
 + Python +
-+ Google Map Api +
++ OpenCV +
 + ADHAAR API +
 ```
 ![Digital_voting_AdobeStock_112206242_1](https://user-images.githubusercontent.com/71402528/118363811-c5f6ee80-b5b3-11eb-8cc4-89840eebbbbe.jpg)
@@ -76,7 +76,7 @@ Our mission is to bring complete transparency to the modern electoral system and
   #### Main Features
   
    :point_right:  
-   :point_right:  (AES)<br/>
+   :point_right: <br/>
    :point_right: .<br/>
      
   #### Future Features
@@ -86,6 +86,7 @@ Our mission is to bring complete transparency to the modern electoral system and
    :point_right:  <br/>
    :point_right: <br/>
   
+![flow](https://user-images.githubusercontent.com/71402528/118704182-78d57f80-b834-11eb-858b-4a6a92698338.png)
 
 
 <i><p align="center"><a href="#content">⬆️ BACK TO CONTENT</a></p></i><br>
@@ -123,7 +124,7 @@ You can download the apk from google drive and install the app by clicking <a hr
 You need to clone (download) it to local machine using
 
 ```sh
-$ git clone https://github.com/Your_Username/e-Voting.git
+$ git clone https://github.com/rollexxx23/e-Voting.git
 ```
 
 > This makes a local copy of repository in your machine.
@@ -162,8 +163,8 @@ See the changes using
 
 ```sh
 $ git remote -v
-origin    https://github.com/Your_Username/CropX.git (fetch)
-origin    https://github.com/Your_Username/CropX.git (push)
+origin    https://github.com/Your_Username/e-Voting.git (fetch)
+origin    https://github.com/Your_Username/e-Voting.git (push)
 upstream  https://github.com/rollexxx23/e-Voting.git (fetch)
 upstream  https://github.com/rollexxx23/e-Voting![e-Voting](https://user-images.githubusercontent.com/71402528/114308981-4df45f00-9b03-11eb-9928-8028aaf2bd15.jpg)
 /e-Voting.git (push)
