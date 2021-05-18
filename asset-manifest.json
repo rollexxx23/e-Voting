@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/rollexxx23/e-Voting/static/css/main.7cdcb642.chunk.css",
+    "main.js": "/rollexxx23/e-Voting/static/js/main.dd903935.chunk.js",
+    "main.js.map": "/rollexxx23/e-Voting/static/js/main.dd903935.chunk.js.map",
+    "runtime-main.js": "/rollexxx23/e-Voting/static/js/runtime-main.d9669c5b.js",
+    "runtime-main.js.map": "/rollexxx23/e-Voting/static/js/runtime-main.d9669c5b.js.map",
+    "static/js/2.03f23e1f.chunk.js": "/rollexxx23/e-Voting/static/js/2.03f23e1f.chunk.js",
+    "static/js/2.03f23e1f.chunk.js.map": "/rollexxx23/e-Voting/static/js/2.03f23e1f.chunk.js.map",
+    "static/js/3.0a5d9680.chunk.js": "/rollexxx23/e-Voting/static/js/3.0a5d9680.chunk.js",
+    "static/js/3.0a5d9680.chunk.js.map": "/rollexxx23/e-Voting/static/js/3.0a5d9680.chunk.js.map",
+    "index.html": "/rollexxx23/e-Voting/index.html",
+    "static/css/main.7cdcb642.chunk.css.map": "/rollexxx23/e-Voting/static/css/main.7cdcb642.chunk.css.map",
+    "static/js/2.03f23e1f.chunk.js.LICENSE.txt": "/rollexxx23/e-Voting/static/js/2.03f23e1f.chunk.js.LICENSE.txt",
+    "static/media/AAP.c29a1a6c.png": "/rollexxx23/e-Voting/static/media/AAP.c29a1a6c.png",
+    "static/media/BJP.e266ea23.png": "/rollexxx23/e-Voting/static/media/BJP.e266ea23.png",
+    "static/media/e-voter.823bd337.png": "/rollexxx23/e-Voting/static/media/e-voter.823bd337.png",
+    "static/media/timer.e3c8e83e.gif": "/rollexxx23/e-Voting/static/media/timer.e3c8e83e.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9669c5b.js",
+    "static/js/2.03f23e1f.chunk.js",
+    "static/css/main.7cdcb642.chunk.css",
+    "static/js/main.dd903935.chunk.js"
+  ]
+}
