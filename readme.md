@@ -78,7 +78,7 @@ https://user-images.githubusercontent.com/71402528/118707602-59d8ec80-b838-11eb-
 
   #### Main Features
   
-   :point_right: UI contains login page, main voting screen and election page
+   :point_right: UI contains login page, main voting screen and election page <br/>
    :point_right: <br/> Smart contract completed
    :point_right: .<br/>
      
