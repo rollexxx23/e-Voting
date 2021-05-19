@@ -147,6 +147,16 @@ Move to this folder for all other commands.
 
 ### 3️⃣ Set it up :arrow_up:
 
+You'll need the following dependencies :
+Node JS 
+Truffle
+```sh
+$ npm install -g truffle
+
+```
+// Download ganache from 
+<a href="https://github.com/trufflesuite/ganache/releases/download/v2.5.4/Ganache-2.5.4-win-x64.appx">here</a>
+
 Run the following commands to see that *your local copy* has a reference to *your forked remote repository* in Github :octocat:
 
 ```sh
