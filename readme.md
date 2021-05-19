@@ -115,9 +115,9 @@ You can refer to the following articles on the basics of Git and Github and also
 <br>
 
 
-### 1️⃣ Install The Apk into your Android Phone
+### 1️⃣ Install The MetaMask web extension
 
-You can download the apk from google drive and install the app by clicking <a href="">here</a>
+You can download the metamak web extension from <a href="https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn">here</a>
 
 <br>
 
