@@ -205,7 +205,7 @@ $ git checkout master
 # Reset local `master` branch to match `upstream` repository's `master` branch
 $ git reset --hard upstream/master
 
-# Push changes to your forked `CropX` repo
+# Push changes to your forked `e-Voting` repo
 $ git push origin master
 ```
 
@@ -305,14 +305,15 @@ Then add a title and description to your pull request that explains your preciou
 
 <i><p align="center"><a href="#content">⬆️ BACK TO CONTENT</a></p></i><br>
 
-<h2 align="center" id="FeaturesWeDemand"> :star: Features Demanded</h2>
+<h2 align="center" id="FeaturesWeDemand"> :star: Features Demanded[for developers]</h2>
 
 |<h2> 1️⃣ AUTOMATION : Perform Tasks In Background</h2>|
 |---|
-|🔘To generate notifications **` build a notify system`**|
-|
+|🔘To generate notifications **` build a confirm notification system`** for Election Commission head|
+|🔘Integrate ** ` Raspberry Pi with OpenCV and Fingerprintsensor` ** |
+
 
 <i><p align="center"><a href="#content">⬆️ BACK TO CONTENT</a></p></i><br>
 <br>
-[Back To The Top](#read-me-template)
+
 
