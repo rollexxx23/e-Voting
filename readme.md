@@ -78,16 +78,16 @@ https://user-images.githubusercontent.com/71402528/118707602-59d8ec80-b838-11eb-
 
   #### Main Features
   
-   :point_right:  
-   :point_right: <br/>
+   :point_right: UI contains login page, main voting screen and election page
+   :point_right: <br/> Smart contract completed
    :point_right: .<br/>
      
   #### Future Features
   
-   :point_right: <br/>
-   :point_right: <br/>
-   :point_right:  <br/>
-   :point_right: <br/>
+   :point_right: Face recognisation using openCV <br/>
+   :point_right: Connect react app with smart contract using web3js<br/>
+   :point_right: Use raspberry pi for voting process  <br/>
+   :point_right: Add fingerprint security as well <br/>
   
 ![flow](https://user-images.githubusercontent.com/71402528/118704182-78d57f80-b834-11eb-858b-4a6a92698338.png)
 
