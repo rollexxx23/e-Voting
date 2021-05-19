@@ -279,8 +279,27 @@ Then add a title and description to your pull request that explains your preciou
 
 |||
 |---|---|
-|<h3 align="center">Home Page</h3><img width="200" alt="Home Page" src="">|<h3 align="center"> Scrolled Home Page</h3><img width="200" alt="Scrolled Home Page" src="">
+<h3 align="center"> Landing Page </h3>
 
+![FIRST-PAGE (2)](https://user-images.githubusercontent.com/72061687/118755854-4acd5b00-b887-11eb-830e-aca6d9c3aa3d.png)
+
+<h3 align="center"> Login Page </h3>
+
+![LOGIN-PAGE (2)](https://user-images.githubusercontent.com/72061687/118756061-b7485a00-b887-11eb-92f6-f329102d5217.png)
+
+<h3 align="center"> OTP Page </h3>
+
+![ENTER-OTP (2)](https://user-images.githubusercontent.com/72061687/118755895-5f115800-b887-11eb-8583-d9902e86d091.png)
+
+<h3 align="center"> Elections Page </h3>
+
+![MAIN-PAGE (2)](https://user-images.githubusercontent.com/72061687/118755914-69335680-b887-11eb-84bb-bc7cf5d22757.png)
+
+<h3 align="center"> Vote Casting Page </h3>
+
+![VOTING-PAGE (2)](https://user-images.githubusercontent.com/72061687/118755921-6df80a80-b887-11eb-9976-11930876c5dc.png)
+
+<!--|<h3 align="center">Home Page</h3><img width="200" alt="Home Page" src="https://drive.google.com/file/d/1L1n96VT44BJGh9bBQKP8rtKDJ5pkIIZC/view?usp=sharing">-->
 
 <i><p align="center"><a href="#content">⬆️ BACK TO CONTENT</a></p></i><br>
 
