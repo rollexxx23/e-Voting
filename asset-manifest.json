@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/rollexxx23/e-Voting/static/css/main.7cdcb642.chunk.css",
-    "main.js": "/rollexxx23/e-Voting/static/js/main.26734178.chunk.js",
-    "main.js.map": "/rollexxx23/e-Voting/static/js/main.26734178.chunk.js.map",
-    "runtime-main.js": "/rollexxx23/e-Voting/static/js/runtime-main.bde1ace8.js",
-    "runtime-main.js.map": "/rollexxx23/e-Voting/static/js/runtime-main.bde1ace8.js.map",
-    "static/js/2.b7a47bf1.chunk.js": "/rollexxx23/e-Voting/static/js/2.b7a47bf1.chunk.js",
-    "static/js/2.b7a47bf1.chunk.js.map": "/rollexxx23/e-Voting/static/js/2.b7a47bf1.chunk.js.map",
-    "static/js/3.1eb860fe.chunk.js": "/rollexxx23/e-Voting/static/js/3.1eb860fe.chunk.js",
-    "static/js/3.1eb860fe.chunk.js.map": "/rollexxx23/e-Voting/static/js/3.1eb860fe.chunk.js.map",
-    "index.html": "/rollexxx23/e-Voting/index.html",
-    "static/css/main.7cdcb642.chunk.css.map": "/rollexxx23/e-Voting/static/css/main.7cdcb642.chunk.css.map",
-    "static/js/2.b7a47bf1.chunk.js.LICENSE.txt": "/rollexxx23/e-Voting/static/js/2.b7a47bf1.chunk.js.LICENSE.txt",
-    "static/media/AAP.c29a1a6c.png": "/rollexxx23/e-Voting/static/media/AAP.c29a1a6c.png",
-    "static/media/BJP.e266ea23.png": "/rollexxx23/e-Voting/static/media/BJP.e266ea23.png",
-    "static/media/e-voter.823bd337.png": "/rollexxx23/e-Voting/static/media/e-voter.823bd337.png",
-    "static/media/timer.e3c8e83e.gif": "/rollexxx23/e-Voting/static/media/timer.e3c8e83e.gif"
+    "main.css": "/e-Voting/static/css/main.7cdcb642.chunk.css",
+    "main.js": "/e-Voting/static/js/main.26734178.chunk.js",
+    "main.js.map": "/e-Voting/static/js/main.26734178.chunk.js.map",
+    "runtime-main.js": "/e-Voting/static/js/runtime-main.8f0f8251.js",
+    "runtime-main.js.map": "/e-Voting/static/js/runtime-main.8f0f8251.js.map",
+    "static/js/2.817c9410.chunk.js": "/e-Voting/static/js/2.817c9410.chunk.js",
+    "static/js/2.817c9410.chunk.js.map": "/e-Voting/static/js/2.817c9410.chunk.js.map",
+    "static/js/3.1eb860fe.chunk.js": "/e-Voting/static/js/3.1eb860fe.chunk.js",
+    "static/js/3.1eb860fe.chunk.js.map": "/e-Voting/static/js/3.1eb860fe.chunk.js.map",
+    "index.html": "/e-Voting/index.html",
+    "static/css/main.7cdcb642.chunk.css.map": "/e-Voting/static/css/main.7cdcb642.chunk.css.map",
+    "static/js/2.817c9410.chunk.js.LICENSE.txt": "/e-Voting/static/js/2.817c9410.chunk.js.LICENSE.txt",
+    "static/media/AAP.c29a1a6c.png": "/e-Voting/static/media/AAP.c29a1a6c.png",
+    "static/media/BJP.e266ea23.png": "/e-Voting/static/media/BJP.e266ea23.png",
+    "static/media/e-voter.823bd337.png": "/e-Voting/static/media/e-voter.823bd337.png",
+    "static/media/timer.e3c8e83e.gif": "/e-Voting/static/media/timer.e3c8e83e.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.bde1ace8.js",
-    "static/js/2.b7a47bf1.chunk.js",
+    "static/js/runtime-main.8f0f8251.js",
+    "static/js/2.817c9410.chunk.js",
     "static/css/main.7cdcb642.chunk.css",
     "static/js/main.26734178.chunk.js"
   ]
