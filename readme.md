@@ -89,7 +89,9 @@ https://user-images.githubusercontent.com/71402528/118707602-59d8ec80-b838-11eb-
    :point_right: Use raspberry pi for voting process  <br/>
    :point_right: Add fingerprint security as well <br/>
   
-![flow](https://user-images.githubusercontent.com/71402528/118704182-78d57f80-b834-11eb-858b-4a6a92698338.png)
+<!--![flow](https://user-images.githubusercontent.com/71402528/118704182-78d57f80-b834-11eb-858b-4a6a92698338.png)-->
+![Screenshot (31)](https://user-images.githubusercontent.com/72061687/118759432-aa7b3480-b88e-11eb-808f-a99b766c3375.png)
+
 
 
 <i><p align="center"><a href="#content">⬆️ BACK TO CONTENT</a></p></i><br>
