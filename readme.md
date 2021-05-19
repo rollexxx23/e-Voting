@@ -148,7 +148,7 @@ Move to this folder for all other commands.
 ### 3️⃣ Set it up :arrow_up:
 
 You'll need the following dependencies :
-Node JS 
+Node JS <br/>
 Truffle
 ```sh
 $ npm install -g truffle
