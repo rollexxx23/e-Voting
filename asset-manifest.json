@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/e-Voting/static/css/main.7cdcb642.chunk.css",
-    "main.js": "/e-Voting/static/js/main.5f4e2169.chunk.js",
-    "main.js.map": "/e-Voting/static/js/main.5f4e2169.chunk.js.map",
+    "main.js": "/e-Voting/static/js/main.dfe7a400.chunk.js",
+    "main.js.map": "/e-Voting/static/js/main.dfe7a400.chunk.js.map",
     "runtime-main.js": "/e-Voting/static/js/runtime-main.77112e79.js",
     "runtime-main.js.map": "/e-Voting/static/js/runtime-main.77112e79.js.map",
-    "static/js/2.a239db7b.chunk.js": "/e-Voting/static/js/2.a239db7b.chunk.js",
-    "static/js/2.a239db7b.chunk.js.map": "/e-Voting/static/js/2.a239db7b.chunk.js.map",
+    "static/js/2.d3c37b09.chunk.js": "/e-Voting/static/js/2.d3c37b09.chunk.js",
+    "static/js/2.d3c37b09.chunk.js.map": "/e-Voting/static/js/2.d3c37b09.chunk.js.map",
     "static/js/3.0a5d9680.chunk.js": "/e-Voting/static/js/3.0a5d9680.chunk.js",
     "static/js/3.0a5d9680.chunk.js.map": "/e-Voting/static/js/3.0a5d9680.chunk.js.map",
     "index.html": "/e-Voting/index.html",
     "static/css/main.7cdcb642.chunk.css.map": "/e-Voting/static/css/main.7cdcb642.chunk.css.map",
-    "static/js/2.a239db7b.chunk.js.LICENSE.txt": "/e-Voting/static/js/2.a239db7b.chunk.js.LICENSE.txt",
+    "static/js/2.d3c37b09.chunk.js.LICENSE.txt": "/e-Voting/static/js/2.d3c37b09.chunk.js.LICENSE.txt",
     "static/media/AAP.c29a1a6c.png": "/e-Voting/static/media/AAP.c29a1a6c.png",
     "static/media/BJP.e266ea23.png": "/e-Voting/static/media/BJP.e266ea23.png",
     "static/media/e-voter.823bd337.png": "/e-Voting/static/media/e-voter.823bd337.png",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.77112e79.js",
-    "static/js/2.a239db7b.chunk.js",
+    "static/js/2.d3c37b09.chunk.js",
     "static/css/main.7cdcb642.chunk.css",
-    "static/js/main.5f4e2169.chunk.js"
+    "static/js/main.dfe7a400.chunk.js"
   ]
 }
